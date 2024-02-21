@@ -49,4 +49,4 @@ Deploy_job:
     - docker 
 
   script: 
-    - echo "Maven deploy started"
+    - echo "Maven deployment started"
